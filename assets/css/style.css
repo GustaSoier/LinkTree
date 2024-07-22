@@ -8,7 +8,7 @@ body{
 
 .background-section {
     width: 100%;
-    height: 200px;
+    height: 150px;
     background-image: url('../img/banner.jpg');
     background-size: cover;
     background-position: center;
@@ -17,8 +17,8 @@ body{
 }
 
 .boxFotoPerfil{
-    position: fixed;
-    top: 20%;
+    position: absolute;
+    top: 50%;
     left: 35%;
 }
 
@@ -42,6 +42,7 @@ body{
     align-items: center;
     flex-direction: column;
     margin-top: 30%;
+    font-size: 16px;
 
 }
 
@@ -65,8 +66,8 @@ body{
 }
 
 .imgBox{
-    width: 90px;
-    height: 80px;
+    width: 60px;
+    height: 55px;
     margin-right: 15px;
     border-radius: 5px;
 }
