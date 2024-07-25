@@ -10,7 +10,6 @@ p, h2 {
     margin: 0;
 }
 
-/* Estilos para a tela preta e mensagem */
 .overlay {
     display: none;
     position: fixed;
